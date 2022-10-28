@@ -1,3 +1,3 @@
 # Exchange Dedup
 
-A command-line tool for deduplicating emails in Exchange.
+Command-line tool for deduplicating emails in Exchange.
